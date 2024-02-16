@@ -2,7 +2,7 @@
 
 Welcome to my project! This application is built with a variety of technologies to provide a seamless and interactive experience for users.
 
-https://github.com/sahas97/Sinthiya/assets/65613126/8851ddce-74f6-4d78-b6ab-0abd29b4be0c
+https://github.com/sahas97/Sinthiya/assets/65613126/0ddc20ef-4cc2-4ec3-aaf2-45dcad8d9cd4
 
 ## 🎯 Features
 
